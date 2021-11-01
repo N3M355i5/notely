@@ -1,2 +1,2 @@
-# notely
-Simplfying Notes
+# Notely
+Simplifying Notes
